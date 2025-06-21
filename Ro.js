@@ -57,7 +57,7 @@ class Rotor {
       text(this.position - 1, x, 240);
     }
 
-    textSize(30);
+    textSize(20);
     text(this.rotorNo + 1, x, 100);
   }
 
