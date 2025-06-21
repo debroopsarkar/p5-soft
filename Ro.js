@@ -40,8 +40,8 @@ class Rotor {
     fill(230);
     rect(x, 160, 50, 40);
     rect(x, 240, 50, 40);
-    fill(0);
-    textSize(20);
+    //fill(0);
+    textSize(14);
 
     if (this.position === 0) {
       text(1, x, 160);
