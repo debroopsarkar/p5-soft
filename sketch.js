@@ -9,8 +9,8 @@ let blackground;
 let enigma;
 
 function preload() {
-  blackground = loadImage("assets/wwimage4.jpg");
-  lightOnSprite = loadImage("assets/download.png");
+  blackground = loadImage("data/wwimage4.jpg");
+  lightOnSprite = loadImage("data/download.png");
 }
 
 function setup() {
